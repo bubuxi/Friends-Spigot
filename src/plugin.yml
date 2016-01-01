@@ -1,0 +1,6 @@
+name: Friends
+main: net.bubuxi.mc.friends.Friends
+version: 1.0
+commands:
+  friends:
+    description:

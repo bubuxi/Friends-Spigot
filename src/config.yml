@@ -1,0 +1,11 @@
+defaultLimit: 20
+maximumFriends: 100
+upgradeScale: 10
+upgradeMoney: 100
+
+database:
+  url: localhost
+  port: 3306
+  table: FRIENDS
+  user: mc-spigot
+  password: ''
